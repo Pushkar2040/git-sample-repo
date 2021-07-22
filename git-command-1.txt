@@ -8,6 +8,7 @@ git add
 git commit -m ""
 git log
 Git diff <filename>
-
-
+--------------------------------------------------
 git command will be executed!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
